@@ -16,4 +16,7 @@ programa de entrenamiento de fuerza y acondicionamiento fisico que combina ejerc
 - Estirar.
 - Seguir indicaciones del entrenador.
 
-
+## Consejos
+- Seguir instrucciones del entrenador.
+- Estirar correctamente.
+- Tener cuidado con el peso.
