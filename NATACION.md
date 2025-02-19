@@ -16,3 +16,7 @@
 - Nadar.
 - Nadar lentamente para calmar la frecuencia.
 
+## Consejos.
+- Calentar correctamente( es muy importante).
+- Hidratarse bien.
+- no beber agua de la piscina.
