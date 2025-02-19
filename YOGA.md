@@ -16,3 +16,7 @@ Practica milenaria que busca equilibrar el cuerpo, la mente y el espiritu.
 - Medite.
 - Controle sus emociones.
 
+## Consejos
+- Tener buena concentracion.
+- Relajarse.
+- Despejar la mente.
