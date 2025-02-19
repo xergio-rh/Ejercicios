@@ -16,3 +16,7 @@ El boxeo es un deporte que trata de pelear con otra persona con respeto y se usa
 - Chocarla con el contrincante.
 - Comenzar a pelear sin violar las reglas.
 
+## Consejos
+- Ser Cordial.
+- Respetar al contrincante.
+- No violar las reglas.
