@@ -10,3 +10,8 @@ Sistema de ejercicios fisicos y mentales que combina tecnicas de ballet, yoga y 
 - Ayuda a combatir el estres.
 - Mejora la respiracion.
 
+## Instrucciones
+- Realizar la fase de activacion.
+- La seccion central (usar bandas elasticas, rodillos, pelota de estabilidad, aros de pilates y una colchoneta.
+- Vuelta a la calma
+
