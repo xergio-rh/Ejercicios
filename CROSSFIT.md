@@ -9,3 +9,11 @@ programa de entrenamiento de fuerza y acondicionamiento fisico que combina ejerc
 - Incrementa la flexibilidad.
 - Aumenta la densidad osea.
 
+## Instrucciones 
+- Calentar.
+- Realizar la tecnica.
+- Hacer la rutina del dia.
+- Estirar.
+- Seguir indicaciones del entrenador.
+
+
