@@ -15,3 +15,6 @@ Deporte que se practica con una bicleta
 - Tener bicicleta.
 - Realizar tramos pequeños para iniciar y cada vez aumentar la distancia de recorrido.
 
+## Consejos
+- Tener buena hidratacion.
+- Aumenta la distancia de recorrido cada vez.
