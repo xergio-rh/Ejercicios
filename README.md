@@ -7,7 +7,7 @@
 - [Ejercicio Cardio](https://github.com/xergio-rh/GuiaDeEjercicios/blob/master/Ejercicios/CARDIO.md): Mejora tu resistencia y salud cardiovascular.
 - [Ejercicio de Fuerza](https://github.com/xergio-rh/GuiaDeEjercicios/blob/master/Ejercicios/FUERZA.md): Aumenta la masa muscular y la fuerza.
 - [Ejercicio de Flexibilidad](https://github.com/xergio-rh/GuiaDeEjercicios/blob/master/Ejercicios/FLEXIBILIDAD.md): Mejora la movilidad y reduce el riesgo de lesiones.
-- [Ejercicio de Entrenamiento Funcional](https://github.com/xergio-rh/GuiaDeEjercicios/blob/master/Ejercicios/ENTRENAMIENTO_FUNCIONAL): Mejora la fuerza en movimientos cotidianos.
+- [Ejercicio de Entrenamiento Funcional](https://github.com/xergio-rh/GuiaDeEjercicios/blob/master/Ejercicios/ENTRENAMIENTO_FUNCIONAL.md): Mejora la fuerza en movimientos cotidianos.
 - [Ejercicio de Yoga](https://github.com/xergio-rh/GuiaDeEjercicios/blob/master/Ejercicios/YOGA.md): Fomenta la relajación y la flexibilidad.
 - [Ejercicio de Pilates](https://github.com/xergio-rh/GuiaDeEjercicios/blob/master/Ejercicios/PILATES.md): Fortalece el núcleo y mejora la postura.
 - [Ejercicio de Ciclismo](https://github.com/xergio-rh/GuiaDeEjercicios/blob/master/Ejercicios/CICLISMO.md): Gran ejercicio cardiovascular de bajo impacto.
