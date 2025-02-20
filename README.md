@@ -12,7 +12,7 @@
 - [Ejercicio de Pilates](https://github.com/xergio-rh/GuiaDeEjercicios/blob/master/Ejercicios/PILATES.md): Fortalece el núcleo y mejora la postura.
 - [Ejercicio de Ciclismo](https://github.com/xergio-rh/GuiaDeEjercicios/blob/master/Ejercicios/CICLISMO.md): Gran ejercicio cardiovascular de bajo impacto.
 - [Ejercicio de Natación](https://github.com/xergio-rh/GuiaDeEjercicios/blob/master/Ejercicios/NATACION.md): Trabaja todos los grupos musculares de manera suave.
-- [Ejercicio de Boxeo]([https://github.com/xergio-rh/GuiaDeEjercicios/blob/master/BOXEO.md](https://github.com/xergio-rh/GuiaDeEjercicios/blob/master/Ejercicios/BOXEO.md)): Mejora la coordinación y la resistencia.
+- [Ejercicio de Boxeo](https://github.com/xergio-rh/GuiaDeEjercicios/blob/master/Ejercicios/BOXEO.md): Mejora la coordinación y la resistencia.
 - [Ejercicio de CrossFit](https://github.com/xergio-rh/GuiaDeEjercicios/blob/master/Ejercicios/CROSSFIT.md): Entrenamiento intensivo y funcional.
 
 ¡Esperamos que encuentres útiles estos ejercicios y te inspires para mantenerte activo y saludable!
